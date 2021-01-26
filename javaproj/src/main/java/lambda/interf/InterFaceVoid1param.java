@@ -1,5 +1,5 @@
 package lambda.interf;
 
-public interface fnInterface1 {
+public interface InterFaceVoid1param {
     void plus(int a);
 }

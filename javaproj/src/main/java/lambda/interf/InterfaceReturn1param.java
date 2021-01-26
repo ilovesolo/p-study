@@ -1,2 +1,5 @@
-package lambda.interf;public class InterfaceReturn1param {
+package lambda.interf;
+
+public interface InterfaceReturn1param {
+    int plus(int a);
 }
